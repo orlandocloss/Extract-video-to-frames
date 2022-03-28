@@ -1,6 +1,5 @@
 import cv2
 import argparse
-import os
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input", type=str, default="",
